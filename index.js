@@ -1,6 +1,7 @@
 var request = require("request"),
 	gm = require("gm"),
-	fs = require("fs");
+	fs = require("fs"),
+    sharp = require('sharp');
 
 // Prefix of URL
 var pUrl;

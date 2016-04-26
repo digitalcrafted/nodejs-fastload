@@ -5,7 +5,8 @@
   "description": "A module for express web application framework for node.",
   "dependencies": {
     "gm": "*",
-    "request": "*"
+    "request": "*",
+    "sharp": "^0.14.1"
   },
   "license": "BSD",
   "engines": {
